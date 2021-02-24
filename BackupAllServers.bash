@@ -90,15 +90,15 @@ checkNfsMount
 createBackupDirectory
 
 # Run backups for instances, these are the folder names in $AMP_INSTANCE_DIR
-# backup "ATM3Remix"
-# backup "Direwolf20"
-# backup "GTNewHorizons"
-# backup "MCEternal"
-# backup "Vanilla"
-# backup "CloudSMP"
-# backup "FTBInteractions"
+backup "ATM3Remix"
+backup "Direwolf20"
+backup "GTNewHorizons"
+backup "MCEternal"
+backup "Vanilla"
+backup "CloudSMP"
+backup "FTBInteractions"
 backup "Valheim01"
-# backup "Skyfactory4"
+backup "Skyfactory4"
 
 # Zip contents
 package
